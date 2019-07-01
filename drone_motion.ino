@@ -4,13 +4,6 @@
  #include <Servo.h>
  Servo myservo;
 
-
-
-
-
-
-
-
 // Program options
 #define MEASURE_TIMING 0    // Measure and display pulse timing
 #define SWEEP_STEERING 0    // Sweep the stearing back and forth
